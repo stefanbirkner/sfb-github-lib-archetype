@@ -1,0 +1,11 @@
+Maven archetype for libraries hosted on GitHub
+==============================================
+
+1. Install the archetype
+
+   * Clone the repository: git clone git@github.com:stefanbirkner/sfb-github-lib-archetype
+   * Install the archetype: mvn install
+
+2. Create a new project based on the archetype
+
+   mvn archetype:generate -DarchetypeGroupId=com.github.stefanbirkner -DarchetypeArtifactId=sfb-github-lib-archetype -DarchetypeVersion=0.1
