@@ -12,7 +12,7 @@
   <packaging>jar</packaging>
   <name>${artifactId}</name>
   <url>http://stefanbirkner.github.com/${artifactId}/</url>
-  <inceptionYear>2012</inceptionYear>
+  <inceptionYear>2013</inceptionYear>
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
