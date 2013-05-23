@@ -11,7 +11,7 @@
   <version>${version}</version>
   <packaging>jar</packaging>
   <name>${artifactId}</name>
-  <url>http://stefanbirkner.github.com/${artifactId}/</url>
+  <url>http://stefanbirkner.github.io/${artifactId}/</url>
   <inceptionYear>2013</inceptionYear>
   <licenses>
     <license>
