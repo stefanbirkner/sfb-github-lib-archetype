@@ -4,7 +4,7 @@
 
   <groupId>com.github.stefanbirkner</groupId>
   <artifactId>sfb-github-lib-archetype</artifactId>
-  <version>0.3-SNAPSHOT</version>
+  <version>0.3</version>
   <packaging>maven-archetype</packaging>
 
   <build>
