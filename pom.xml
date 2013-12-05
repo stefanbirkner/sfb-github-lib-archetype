@@ -4,6 +4,26 @@
 
   <groupId>com.github.stefanbirkner</groupId>
   <artifactId>sfb-github-lib-archetype</artifactId>
-  <version>0.2</version>
-  <packaging>jar</packaging>
+  <version>0.3-SNAPSHOT</version>
+  <packaging>maven-archetype</packaging>
+
+  <build>
+    <extensions>
+      <extension>
+        <groupId>org.apache.maven.archetype</groupId>
+        <artifactId>archetype-packaging</artifactId>
+        <version>2.2</version>
+      </extension>
+    </extensions>
+
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-archetype-plugin</artifactId>
+          <version>2.2</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
 </project>
