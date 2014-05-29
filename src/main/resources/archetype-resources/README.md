@@ -1,3 +1,3 @@
 # ${artifactId}
 
-[![Build Status](https://secure.travis-ci.org/stefanbirkner/${artifactId}.png)](https://travis-ci.org/stefanbirkner/${artifactId})
+[![Build Status](https://travis-ci.org/stefanbirkner/${artifactId}.svg?branch=master)](https://travis-ci.org/stefanbirkner/${artifactId})
