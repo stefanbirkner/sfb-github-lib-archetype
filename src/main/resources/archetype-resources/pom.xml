@@ -12,7 +12,7 @@
     <packaging>jar</packaging>
     <name>${artifactId}</name>
     <url>http://stefanbirkner.github.io/${artifactId}/</url>
-    <inceptionYear>2015</inceptionYear>
+    <inceptionYear>2016</inceptionYear>
     <licenses>
         <license>
             <name>MIT License</name>
