@@ -2,6 +2,11 @@
 
 [![Build Status](https://travis-ci.org/stefanbirkner/${artifactId}.svg?branch=master)](https://travis-ci.org/stefanbirkner/${artifactId})
 
+${artifactId} is published under the
+[MIT license](http://opensource.org/licenses/MIT). It uses Java 8. Please
+[open an issue](https://github.com/stefanbirkner/${artifactId}/issues/new)
+if you want to use it with an older version of Java.
+
 
 ## Installation
 
@@ -53,5 +58,5 @@ CI.
 * Set the new version in `pom.xml` and in the `Installation` section of
   this readme.
 * Commit the modified `pom.xml` and `README.md`.
-* Run `mvn clean deploy` with JDK 6.
+* Run `mvn clean deploy` with JDK 8.
 * Add a tag for the release: `git tag ${artifactId}-X.X.X`
