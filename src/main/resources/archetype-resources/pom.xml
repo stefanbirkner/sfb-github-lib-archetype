@@ -25,9 +25,6 @@
         <developerConnection>scm:git:git@github.com:stefanbirkner/${artifactId}.git</developerConnection>
         <url>https://github.com/stefanbirkner/${artifactId}/</url>
     </scm>
-    <prerequisites>
-        <maven>3.0.4</maven>
-    </prerequisites>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
