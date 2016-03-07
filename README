@@ -8,4 +8,4 @@ Maven archetype for libraries hosted on GitHub
 
 2. Create a new project based on the archetype
 
-   mvn archetype:generate -DarchetypeGroupId=com.github.stefanbirkner -DarchetypeArtifactId=sfb-github-lib-archetype -DarchetypeVersion=0.10
+   mvn archetype:generate -DarchetypeGroupId=com.github.stefanbirkner -DarchetypeArtifactId=sfb-github-lib-archetype -DarchetypeVersion=0.11
