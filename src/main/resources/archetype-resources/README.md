@@ -1,6 +1,6 @@
 # ${artifactId}
 
-[![Build Status](https://travis-ci.org/stefanbirkner/${artifactId}.svg?branch=master)](https://travis-ci.org/stefanbirkner/${artifactId})
+[![Build Status](https://travis-ci.com/stefanbirkner/${artifactId}.svg?branch=master)](https://travis-ci.com/stefanbirkner/${artifactId})
 
 ${artifactId} is published under the
 [MIT license](http://opensource.org/licenses/MIT). It uses Java 8. Please
@@ -46,7 +46,7 @@ want to contribute code than
 The basic coding style is described in the
 [EditorConfig](http://editorconfig.org/) file `.editorconfig`.
 
-${artifactId} supports [Travis CI](https://travis-ci.org/) for continuous
+${artifactId} supports [Travis CI](https://travis-ci.com/) for continuous
 integration. Your pull request will be automatically build by Travis
 CI.
 
