@@ -11,7 +11,7 @@ if you want to use it with an older version of Java.
 ## Installation
 
 ${artifactId} is available from
-[Maven Central](http://search.maven.org/).
+[Maven Central](https://search.maven.org/#search|ga|1|${artifactId}).
 
     <dependency>
       <groupId>${groupId}</groupId>
